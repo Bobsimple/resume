@@ -115,7 +115,7 @@ a, a:hover, a:active {
 /* Styles
 ---------------------------------*/
 body {
-    background: cream;
+    background-image: url("../img/paper.jpg");
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     font-weight: normal;
@@ -533,7 +533,7 @@ a.contact_btn {
     text-transform: uppercase;
     display: block;
     width: 176px;
-    height: 49px;
+    height: 30px;
     text-align: center;
     line-height: 49px;
     font-size: 16px;
@@ -949,7 +949,7 @@ font-size: 15px;
 line-height: 30px;
 outline: 0;
 color: #CE1139;
-background-color: #fff;
+background-image: url("../img/home2.jpg");
 -webkit-transition: all .3s;
 -moz-transition: all .3s;
 transition: all .3s;
@@ -1331,6 +1331,7 @@ border: 1px solid #CE1139;
     letter-spacing: -1px;
     margin: 0 0 15px;
     text-align: center;
+    
 }
 
 .section-title span {
@@ -1709,6 +1710,7 @@ img {
 .card .card-body {
     padding: 0 20px;
     margin-top: 20px;
+    background-image:url("..image/home.jpg")
 }
 
 .card .card-media {
